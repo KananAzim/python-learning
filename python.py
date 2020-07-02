@@ -1,5 +1,5 @@
 
-
+i =0
 while True:
         
     p = ["1.Print all workers","2.Add worker","3.Delete worker","4.Exit"]
